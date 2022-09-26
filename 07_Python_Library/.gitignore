@@ -1,0 +1,7 @@
+﻿*.pyd
+*/__pycache__
+build
+sciencemode3_cffi.egg-info
+.eggs
+smpt/include
+smpt/lib
